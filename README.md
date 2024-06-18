@@ -1,6 +1,6 @@
 Hi there!   Welcome to my personal data science playground on GitHub! I'm Rohan Mudgal, a data scientist ‍ passionate about unlocking the secrets hidden within datasets ️.
 
-**Let's Dive In!** ‍♀️
+**Let's Dive In!**
 
 This is my space to experiment with all things data science: different tools , cool libraries , and fascinating datasets .  I'm particularly curious about exploring areas like (mention specific areas of data science you're interested in, e.g.,   Natural Language Processing,  Computer Vision,  Time Series Analysis).
 
