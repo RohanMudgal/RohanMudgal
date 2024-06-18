@@ -2,7 +2,7 @@ Hi there!   Welcome to my personal data science playground on GitHub! I'm Rohan 
 
 **Let's Dive In!**
 
-This is my space to experiment with all things data science: different tools , cool libraries , and fascinating datasets .  I'm particularly curious about exploring areas like (mention specific areas of data science you're interested in, e.g.,   Natural Language Processing,  Computer Vision,  Time Series Analysis).
+This is my space to experiment with all things data science: different tools , cool libraries , and fascinating datasets .  I'm particularly curious about exploring areas like data science I am interested in, e.g., Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis.
 
 **Project Adventures! ️**
 
